@@ -4,7 +4,8 @@
   <name>ros2_control_abb_driver</name>
   <version>0.0.1</version>
   <description>ABB egm driver for ros2 control</description>
-  <maintainer email="dmitri.ignakov@taigarobotics.com">Dmitri</maintainer>
+  <author email="dmitri.ignakov@taigarobotics.com">Dmitri Ignakov (Taiga Robotics)</author>
+  <maintainer email="dmitri.ignakov@taigarobotics.com">Dmitri Ignakov (Taiga Robotics)</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
